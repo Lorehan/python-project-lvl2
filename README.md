@@ -7,5 +7,9 @@
 ### Dependencies:
 - python = "^3.10"
 
-### Examples of using:
+### Installation:
+- make build
+- make package-install
 
+### Examples of using:
+<a href="https://asciinema.org/a/qE5WybPNuAkfYRtS9yFfSMN6C" target="_blank"><img src="https://asciinema.org/a/qE5WybPNuAkfYRtS9yFfSMN6C.svg" /></a>
