@@ -12,4 +12,4 @@
 - make package-install
 
 ### Examples of using:
-[![asciicast](https://asciinema.org/a/qE5WybPNuAkfYRtS9yFfSMN6C.svg)](https://asciinema.org/a/qE5WybPNuAkfYRtS9yFfSMN6C)
+<script src="https://asciinema.org/a/qE5WybPNuAkfYRtS9yFfSMN6C.js" id="asciicast-qE5WybPNuAkfYRtS9yFfSMN6C" async="true"></script>
