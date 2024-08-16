@@ -33,5 +33,10 @@ def main():
     print(generate_diff(args.first_file, args.second_file))
 
 
+__all__ = (
+    'generate_diff'
+)
+
+
 if __name__ == '__main__':
     main()
