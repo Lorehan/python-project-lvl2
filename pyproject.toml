@@ -11,6 +11,8 @@ packages = [
 [tool.poetry.dependencies]
 python = "^3.10"
 
+[tool.poetry.dev-dependencies]
+flake8 = "^7.0.0"
 
 [build-system]
 requires = ["poetry-core"]
