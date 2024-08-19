@@ -5,7 +5,7 @@ from gendiff.cli import parse_arguments
 def generate_diff(file_path1, file_path2, format='PLAIN'):
     file1 = json.load(open(file_path1))
     file2 = json.load(open(file_path2))
-    keys = file1.keys() | file2.keys()
+    keys = sorted(file1.keys() | file2.keys())
     diff_list = []
     for key in keys:
         if key not in file1:
