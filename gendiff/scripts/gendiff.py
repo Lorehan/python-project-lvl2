@@ -23,7 +23,7 @@ def generate_diff(file_path1, file_path2, format='PLAIN'):
 
 
 def main():
-    first_file, second_file, format = parse_arguments
+    first_file, second_file, format = parse_arguments()
     print(generate_diff(first_file, second_file, format=format))
 
 
