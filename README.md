@@ -15,4 +15,8 @@
 - make package-install
 
 ### Examples of using:
+- difference between two JSON files
 [![asciicast](https://asciinema.org/a/qE5WybPNuAkfYRtS9yFfSMN6C.svg)](https://asciinema.org/a/qE5WybPNuAkfYRtS9yFfSMN6C)
+
+- difference between two YAML files
+[![asciicast](https://asciinema.org/a/mFTj22c17DdGZf0Gxaff7yg93.svg)](https://asciinema.org/a/mFTj22c17DdGZf0Gxaff7yg93)
