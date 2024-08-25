@@ -1,7 +1,7 @@
 from gendiff.scripts.gendiff import generate_diff
 
 
-with open('tests/fixtures/output/JSON/result.txt', "r") as test_file:
+with open('tests/fixtures/output/result.txt', "r") as test_file:
     result_from_file = test_file.read()
 
 
